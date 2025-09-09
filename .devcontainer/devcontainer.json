@@ -1,0 +1,8 @@
+{
+  "name": "Python 3.12",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {}
+//   "settings": {
+//     "python.defaultInterpreterPath": "/usr/local/bin/python"
+//   }
+}
